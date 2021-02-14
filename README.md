@@ -1,2 +1,1 @@
-# guard-botu
-Efsane Guard Botu
+# cosmoxbot
